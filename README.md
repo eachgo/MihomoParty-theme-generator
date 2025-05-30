@@ -38,8 +38,8 @@
 
 1.  **克隆仓库**：
     ```bash
-    git clone https://github.com/your-username/mihomo-ui-theme-generator.git
-    cd mihomo-ui-theme-generator
+    git clone https://github.com/eachgo/MihomoParty-theme-generator.git
+    cd MihomoParty-theme-generator
     ```
 2.  **安装依赖**：
     ```bash
