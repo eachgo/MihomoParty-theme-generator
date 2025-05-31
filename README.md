@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="main" alt="MihomoParty-theme-generator banner" width="800">
+  <img src="main.jpg" alt="MihomoParty-theme-generator banner" width="800">
 </p>
 
 # Mihomo Party 主题生成器
