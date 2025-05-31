@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="main" alt="MihomoParty-theme-generator banner" width="800">
+</p>
+
 # Mihomo Party 主题生成器
 
 本项目是一个专为 Mihomo Party 设计的主题生成器。
